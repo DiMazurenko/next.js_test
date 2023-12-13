@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d16b04b-46c8-4ddf-bfc6-603293ea031f" name="Changes" comment="fix">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/next.js_test.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/prettier.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/app/(auth)/(routes)/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/app/(auth)/(routes)/sign-in/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/app/(auth)/(routes)/sign-up/[[...sign-up]]/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/app/(root)/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components/modals/store-modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components/ui/button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components/ui/dialog.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components/ui/form.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components/ui/input.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components/ui/label.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/components/ui/modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/hooks/use-store-modal.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/lib/prismadb.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/lib/utils.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/middleware.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/prisma/schema.prisma" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/providers/modal-provider.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin-panel/tsconfig.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DiMazurenko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8f6fc1d3-a766-4dba-a733-394ccb7c1ff2" />
+        <option name="url" value="https://github.com/DiMazurenko/next.js_test.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2U4VrMaZ42tJZiXG88nOXaGd7wh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "dev-dima",
+    "javascript.nodejs.core.library.configured.version": "20.2.0",
+    "javascript.nodejs.core.library.typings.version": "20.2.0",
+    "last_opened_file_path": "//wsl$/Ubuntu/home/dimazurenko/Projects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "ts.external.directory.path": "\\\\wsl$\\Ubuntu\\home\\dimazurenko\\Projects\\next.js_test\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="\\wsl$\Ubuntu\home\dimazurenko\Projects\next.js_test\admin-panel" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d16b04b-46c8-4ddf-bfc6-603293ea031f" name="Changes" comment="" />
+      <created>1692199038479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692199038479</updated>
+      <workItem from="1692199039677" duration="550000" />
+      <workItem from="1692199772574" duration="71000" />
+      <workItem from="1692199855960" duration="40000" />
+      <workItem from="1692199911874" duration="2103000" />
+      <workItem from="1692274477727" duration="7182000" />
+      <workItem from="1692367802686" duration="2565000" />
+      <workItem from="1692370416411" duration="2767000" />
+      <workItem from="1692622367992" duration="68000" />
+      <workItem from="1692622452625" duration="2431000" />
+      <workItem from="1692625497830" duration="7477000" />
+      <workItem from="1692715560274" duration="2068000" />
+      <workItem from="1692807505914" duration="139000" />
+      <workItem from="1695134060975" duration="431000" />
+      <workItem from="1702469563079" duration="2219000" />
+    </task>
+    <task id="LOCAL-00001" summary="init project">
+      <option name="closed" value="true" />
+      <created>1692200455293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692200455293</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add components">
+      <option name="closed" value="true" />
+      <created>1692201895485</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1692201895485</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add components">
+      <option name="closed" value="true" />
+      <created>1692279679821</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1692279679821</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add error and loading pages">
+      <option name="closed" value="true" />
+      <created>1692279702243</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1692279702243</updated>
+    </task>
+    <task id="LOCAL-00005" summary="init project">
+      <option name="closed" value="true" />
+      <created>1692369935617</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1692369935617</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add auth in admin panel">
+      <option name="closed" value="true" />
+      <created>1692373190506</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1692373190507</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add store-modal in admin">
+      <option name="closed" value="true" />
+      <created>1692629135407</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1692629135407</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add form-store in admin">
+      <option name="closed" value="true" />
+      <created>1692632587022</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1692632587022</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fix">
+      <option name="closed" value="true" />
+      <created>1692807570445</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1692807570445</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="powershell.exe" />
+    <option name="startingDirectory" value="\\wsl$\Ubuntu\home\dimazurenko\Projects" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add components" />
+    <MESSAGE value="add error and loading pages" />
+    <MESSAGE value="init project" />
+    <MESSAGE value="add auth in admin panel" />
+    <MESSAGE value="add store-modal in admin" />
+    <MESSAGE value="add form-store in admin" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+</project>
