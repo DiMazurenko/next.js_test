@@ -4,51 +4,81 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d16b04b-46c8-4ddf-bfc6-603293ea031f" name="Changes" comment="add components">
+    <list default="true" id="3e0008ef-326f-4493-af08-de8a6a6f9dee" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Camp.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Features.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/GetApp.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Guide.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Navbar.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/android.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/apple.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/boat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/calendar.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/camp.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/feature-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/folded-map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/hero-bg.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/hero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/hilink-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/img-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/location.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/map.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/menu.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/meter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pattern-bg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/pattern.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/person-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/person-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/person-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/person-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/phone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/phones.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/play.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/quote.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/tech.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/user.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/wordpress.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FormatOnSaveOptions">
-    <option name="myRunOnSave" value="true" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;DiMazurenko&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="8f6fc1d3-a766-4dba-a733-394ccb7c1ff2" />
-        <option name="url" value="https://github.com/DiMazurenko/next.js_test.git" />
-      </UrlAndAccount>
-    </option>
-  </component>
-  <component name="JsBowerSettings">
-    <bower-package value="" />
-    <bower.json value="" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
   <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
-  <component name="ProjectId" id="2U4VrMaZ42tJZiXG88nOXaGd7wh" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="2ZZyOAJW8koxHbOfs4rQwMj0L8V" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -57,172 +87,29 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;dev-dima&quot;,
-    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.2.0&quot;,
-    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.2.0&quot;,
-    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/dimazurenko/Projects&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\dimazurenko\\Projects\\next.js_test\\node_modules\\typescript\\lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="\\wsl$\Ubuntu\home\dimazurenko\Projects\next.js_test\admin-panel" />
-    </key>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9d16b04b-46c8-4ddf-bfc6-603293ea031f" name="Changes" comment="" />
-      <created>1692199038479</created>
+      <changelist id="3e0008ef-326f-4493-af08-de8a6a6f9dee" name="Changes" comment="" />
+      <created>1702643862563</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1692199038479</updated>
-      <workItem from="1692199039677" duration="550000" />
-      <workItem from="1692199772574" duration="71000" />
-      <workItem from="1692199855960" duration="40000" />
-      <workItem from="1692199911874" duration="2103000" />
-      <workItem from="1692274477727" duration="7182000" />
-      <workItem from="1692367802686" duration="2565000" />
-      <workItem from="1692370416411" duration="2767000" />
-      <workItem from="1692622367992" duration="68000" />
-      <workItem from="1692622452625" duration="2431000" />
-      <workItem from="1692625497830" duration="7477000" />
-      <workItem from="1692715560274" duration="2068000" />
-      <workItem from="1692807505914" duration="139000" />
-      <workItem from="1695134060975" duration="431000" />
-      <workItem from="1702469563079" duration="2219000" />
-      <workItem from="1702479661442" duration="635000" />
+      <updated>1702643862563</updated>
+      <workItem from="1702643866009" duration="577000" />
+      <workItem from="1702644563182" duration="287000" />
     </task>
-    <task id="LOCAL-00001" summary="init project">
-      <option name="closed" value="true" />
-      <created>1692200455293</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1692200455293</updated>
-    </task>
-    <task id="LOCAL-00002" summary="add components">
-      <option name="closed" value="true" />
-      <created>1692201895485</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1692201895485</updated>
-    </task>
-    <task id="LOCAL-00003" summary="add components">
-      <option name="closed" value="true" />
-      <created>1692279679821</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1692279679821</updated>
-    </task>
-    <task id="LOCAL-00004" summary="add error and loading pages">
-      <option name="closed" value="true" />
-      <created>1692279702243</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1692279702243</updated>
-    </task>
-    <task id="LOCAL-00005" summary="init project">
-      <option name="closed" value="true" />
-      <created>1692369935617</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1692369935617</updated>
-    </task>
-    <task id="LOCAL-00006" summary="add auth in admin panel">
-      <option name="closed" value="true" />
-      <created>1692373190506</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1692373190507</updated>
-    </task>
-    <task id="LOCAL-00007" summary="add store-modal in admin">
-      <option name="closed" value="true" />
-      <created>1692629135407</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1692629135407</updated>
-    </task>
-    <task id="LOCAL-00008" summary="add form-store in admin">
-      <option name="closed" value="true" />
-      <created>1692632587022</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1692632587022</updated>
-    </task>
-    <task id="LOCAL-00009" summary="fix">
-      <option name="closed" value="true" />
-      <created>1692807570445</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1692807570445</updated>
-    </task>
-    <task id="LOCAL-00010" summary="update styles">
-      <option name="closed" value="true" />
-      <created>1702479686973</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1702479686973</updated>
-    </task>
-    <task id="LOCAL-00011" summary="add components">
-      <option name="closed" value="true" />
-      <created>1702479698913</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1702479698913</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
     <servers />
-  </component>
-  <component name="TerminalProjectNonSharedOptionsProvider">
-    <option name="shellPath" value="powershell.exe" />
-    <option name="startingDirectory" value="\\wsl$\Ubuntu\home\dimazurenko\Projects" />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="add error and loading pages" />
-    <MESSAGE value="init project" />
-    <MESSAGE value="add auth in admin panel" />
-    <MESSAGE value="add store-modal in admin" />
-    <MESSAGE value="add form-store in admin" />
-    <MESSAGE value="fix" />
-    <MESSAGE value="update styles" />
-    <MESSAGE value="add components" />
-    <option name="LAST_COMMIT_MESSAGE" value="add components" />
   </component>
 </project>
