@@ -4,69 +4,79 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e0008ef-326f-4493-af08-de8a6a6f9dee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="3e0008ef-326f-4493-af08-de8a6a6f9dee" name="Changes" comment="update app">
+      <change beforePath="$PROJECT_DIR$/.eslintrc.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/layout.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Button.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Camp.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Features.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Footer.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/GetApp.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Guide.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Hero.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Navbar.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/constants/index.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/android.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/apple.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/boat.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/calendar.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/camp.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/facebook.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/feature-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/folded-map.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hero-bg.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hero.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/hilink-logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/img-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/instagram.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/location.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/map.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/menu.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/meter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pattern-bg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/pattern.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/person-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/person-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/person-3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/person-4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/phone.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/phones.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/play.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/quote.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/star.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/tech.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/twitter.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/user.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/wordpress.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/youtube.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vite.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/arrow-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/chevron-left.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/chevron-right.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/copyright-sign.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/facebook.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/hamburger.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/instagram.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/shield-tick.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/star.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/support.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/truck-fast.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/icons/twitter.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/big-shoe1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/big-shoe2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/big-shoe3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/collection-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/customer1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/customer2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/footer-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/header-logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/offer.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shoe4.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shoe5.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shoe6.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shoe7.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/shoe8.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/thumbnail-background.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/thumbnail-shoe1.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/thumbnail-shoe2.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/images/thumbnail-shoe3.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Button.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Nav.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PopularProductCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ReviewCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ServiceCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ShoeCard.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constants/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/CustomerReviews.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Hero.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/PopularProducts.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Services.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/SpecialOffer.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/Subscribe.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/SuperQuality.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sections/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vite.config.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -83,19 +93,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev-dima&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev-dima",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "\\\\wsl$\\Ubuntu\\home\\dimazurenko\\Projects\\next.js_test\\frontend\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -106,10 +121,34 @@
       <updated>1702643862563</updated>
       <workItem from="1702643866009" duration="577000" />
       <workItem from="1702644563182" duration="287000" />
+      <workItem from="1702652236360" duration="485000" />
+      <workItem from="1707740150562" duration="781000" />
     </task>
+    <task id="LOCAL-00001" summary="add assets">
+      <option name="closed" value="true" />
+      <created>1702652310385</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702652310385</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update app">
+      <option name="closed" value="true" />
+      <created>1702652342609</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702652342609</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add assets" />
+    <MESSAGE value="update app" />
+    <option name="LAST_COMMIT_MESSAGE" value="update app" />
   </component>
 </project>
