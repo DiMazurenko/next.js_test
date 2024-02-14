@@ -4,14 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f603cc7d-81c0-4cbf-885a-98c9214076cc" name="Changes" comment="init app">
+    <list default="true" id="f603cc7d-81c0-4cbf-885a-98c9214076cc" name="Changes" comment="add backend strapi">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.env.example" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.eslintignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/config/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/admin.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/config/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/api.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/database.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/config/middlewares.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/middlewares.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/config/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/plugins.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/config/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/server.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/database/migrations/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/database/migrations/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/favicon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/public/uploads/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/public/uploads/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/src/admin/app.example.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/admin/app.example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/src/admin/webpack.config.example.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/admin/webpack.config.example.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/src/api/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/api/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/src/extensions/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/extensions/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/types/generated/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/types/generated/components.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/my-project/types/generated/contentTypes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/types/generated/contentTypes.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/app/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/components/Footer/Footer.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/app/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/components/Header/Header.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/app/components/Hero/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/components/Hero/Hero.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/globals.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/next.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/postcss.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tailwind.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,24 +83,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.standard": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.standard": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "wsl://Ubuntu@/usr/bin/node",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
-    "ts.external.directory.path": "\\\\wsl$\\Ubuntu\\home\\dimazurenko\\Projects\\next.js_test\\frontend\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;wsl://Ubuntu@/usr/bin/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.build.executor&quot;: &quot;Run&quot;,
+    &quot;npm.lint.executor&quot;: &quot;Run&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;\\\\wsl$\\Ubuntu\\home\\dimazurenko\\Projects\\next.js_test\\frontend\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="npm.build">
+    <configuration name="build" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="lint" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/frontend/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="lint" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.build" />
+        <item itemvalue="npm.lint" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -75,6 +144,8 @@
       <workItem from="1702652236360" duration="485000" />
       <workItem from="1707740150562" duration="781000" />
       <workItem from="1707741464605" duration="2465000" />
+      <workItem from="1707746546720" duration="2450000" />
+      <workItem from="1707911482690" duration="1474000" />
     </task>
     <task id="LOCAL-00001" summary="add assets">
       <option name="closed" value="true" />
@@ -92,7 +163,31 @@
       <option name="project" value="LOCAL" />
       <updated>1702652342609</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add Header">
+      <option name="closed" value="true" />
+      <created>1707747534472</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707747534472</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add Hero">
+      <option name="closed" value="true" />
+      <created>1707747804132</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1707747804132</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add backend strapi">
+      <option name="closed" value="true" />
+      <created>1707748768716</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1707748768716</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,6 +207,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add assets" />
     <MESSAGE value="update app" />
-    <option name="LAST_COMMIT_MESSAGE" value="update app" />
+    <MESSAGE value="add Header" />
+    <MESSAGE value="add Hero" />
+    <MESSAGE value="add backend strapi" />
+    <option name="LAST_COMMIT_MESSAGE" value="add backend strapi" />
   </component>
 </project>
