@@ -4,53 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f603cc7d-81c0-4cbf-885a-98c9214076cc" name="Changes" comment="add backend strapi">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="f603cc7d-81c0-4cbf-885a-98c9214076cc" name="Changes" comment="update project">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/.env.example" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.env.example" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/.eslintignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.eslintignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/config/admin.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/admin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/config/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/config/database.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/database.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/config/middlewares.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/middlewares.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/config/plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/config/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/config/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/database/migrations/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/database/migrations/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/favicon.png" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/favicon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/public/robots.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/public/uploads/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/public/uploads/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/src/admin/app.example.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/admin/app.example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/src/admin/webpack.config.example.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/admin/webpack.config.example.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/src/api/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/api/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/src/extensions/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/extensions/.gitkeep" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/types/generated/components.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/types/generated/components.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/my-project/types/generated/contentTypes.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/backend/my-project/types/generated/contentTypes.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.eslintrc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/components/Footer/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/components/Footer/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/components/Header/Header.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/components/Header/Header.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/components/Hero/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/components/Hero/Hero.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/globals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/layout.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/app/page.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/next.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/postcss.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/postcss.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/public/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/tailwind.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tailwind.config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/tsconfig.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -145,7 +104,7 @@
       <workItem from="1707740150562" duration="781000" />
       <workItem from="1707741464605" duration="2465000" />
       <workItem from="1707746546720" duration="2450000" />
-      <workItem from="1707911482690" duration="1474000" />
+      <workItem from="1707911482690" duration="6174000" />
     </task>
     <task id="LOCAL-00001" summary="add assets">
       <option name="closed" value="true" />
@@ -187,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707748768716</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update project">
+      <option name="closed" value="true" />
+      <created>1707913257802</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1707913257802</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,6 +177,7 @@
     <MESSAGE value="add Header" />
     <MESSAGE value="add Hero" />
     <MESSAGE value="add backend strapi" />
-    <option name="LAST_COMMIT_MESSAGE" value="add backend strapi" />
+    <MESSAGE value="update project" />
+    <option name="LAST_COMMIT_MESSAGE" value="update project" />
   </component>
 </project>
